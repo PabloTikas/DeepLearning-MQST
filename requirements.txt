@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+numpy
+matplotlib
+scipy
+sklearn
+tensorflow
+visualkeras
+pandas
