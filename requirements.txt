@@ -3,7 +3,8 @@ python-dotenv
 numpy
 matplotlib
 scipy
-sklearn
+scikit-learn
 tensorflow
 visualkeras
 pandas
+tqdm
